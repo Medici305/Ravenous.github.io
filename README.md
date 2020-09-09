@@ -1,6 +1,6 @@
 # Ravenous.github.io
 
-build a website called “Ravenous”, a Yelp-like clone.
+Built a website called “Ravenous”, a Yelp-like clone.
 
 4 stages on how i tackled this project: 
 - Creating Static Components
